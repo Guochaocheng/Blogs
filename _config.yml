@@ -99,19 +99,22 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "CSDN",
+        href: "https://blog.csdn.net/weixin_43840576"
     },{
-        title: "简书·GCC",
+        title: "简书",
         href: "https://www.jianshu.com/u/4296bfb82f16"
+    },{
+        title: "新浪微博",
+        href: "https://weibo.com/u/3579792124/"
+    },{
+        title: "NCBI_pubmed",
+        href: "https://www.ncbi.nlm.nih.gov/pubmed"
+    },{
+        title: "计算小工具",
+        href: "https://guochaocheng.github.io/Calculation/"
     },{
         title: "Apple",
         href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    },{
-        title: "Calcultion",
-        href: "https://guochaocheng.github.io/Calculation/"
     }
 ]
