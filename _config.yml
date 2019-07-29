@@ -11,8 +11,8 @@ github_repo: "hhttps://github.com/Guochaocheng/Blogs/" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/header.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Happy life, happy ending!"
+sidebar-avatar: /img/headphoto.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
