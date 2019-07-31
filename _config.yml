@@ -111,6 +111,12 @@ friends: [
         title: "NCBI_pubmed",
         href: "https://www.ncbi.nlm.nih.gov/pubmed"
     },{
+        title: "ACFUN",
+        href: "https://www.acfun.cn/"
+    },{
+        title: "BiliBili",
+        href: "https://www.bilibili.com/"
+    },{
         title: "计算小工具",
         href: "https://guochaocheng.github.io/Calculation/"
     },{
