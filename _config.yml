@@ -111,6 +111,9 @@ friends: [
         title: "NCBI_pubmed",
         href: "https://www.ncbi.nlm.nih.gov/pubmed"
     },{
+        title: "影响因子查询",
+        href: "https://sci.justscience.cn"
+    },{
         title: "ACFUN",
         href: "https://www.acfun.cn/"
     },{
